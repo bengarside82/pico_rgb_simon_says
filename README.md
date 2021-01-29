@@ -2,7 +2,7 @@
 
 Raspberry Pi Pico using the Pimoroni RGB Keyboard Simon Says game
 
-This has been coded using Micro python with the Pimoroni custom [https://github.com/pimoroni/pimoroni-pico](firmware for the Pico).
+This has been coded using Micro python with the (Pimoroni custom firmware for the Pico)[https://github.com/pimoroni/pimoroni-pico].
 
 To initialise the game you need to press the 0 key
 
